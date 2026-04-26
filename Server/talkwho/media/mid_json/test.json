@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "start_frame": 107,
+            "end_frame": 171,
+            "pos": [
+                562.9706787109375,
+                325.69018096923827
+            ],
+            "text": "Appears to be a standard\nsequence violation",
+            "start_time": "00:00:04.300",
+            "end_time": "00:00:06.869"
+        },
+        {
+            "start_frame": 188,
+            "end_frame": 312,
+            "pos": [
+                469.0,
+                627.0
+            ],
+            "text": "branch is growing at a stable\nrate and slope variant identified.",
+            "start_time": "00:00:07.530",
+            "end_time": "00:00:12.500"
+        },
+        {
+            "start_frame": 340,
+            "end_frame": 365,
+            "pos": [
+                540.9432983398438,
+                378.4233688354492
+            ],
+            "text": "I beg your pardon.",
+            "start_time": "00:00:13.630",
+            "end_time": "00:00:14.600"
+        },
+        {
+            "start_frame": 367,
+            "end_frame": 435,
+            "pos": [
+                479.0,
+                627.0
+            ],
+            "text": "On behalf of the time variance\nauthority,",
+            "start_time": "00:00:14.689",
+            "end_time": "00:00:17.430"
+        },
+        {
+            "start_frame": 436,
+            "end_frame": 515,
+            "pos": [
+                483.0,
+                627.0
+            ],
+            "text": "I hereby arrest you for crimes\nagainst the sacred timeline.",
+            "start_time": "00:00:17.440",
+            "end_time": "00:00:20.620"
+        },
+        {
+            "start_frame": 529,
+            "end_frame": 551,
+            "pos": [
+                584.5,
+                655.0
+            ],
+            "text": "Hands up.",
+            "start_time": "00:00:21.170",
+            "end_time": "00:00:22.079"
+        },
+        {
+            "start_frame": 577,
+            "end_frame": 613,
+            "pos": [
+                460.83087158203125,
+                322.26036529541017
+            ],
+            "text": "You're coming with us.",
+            "start_time": "00:00:23.110",
+            "end_time": "00:00:24.540"
+        },
+        {
+            "start_frame": 635,
+            "end_frame": 671,
+            "pos": [
+                525.412353515625,
+                456.81395111083987
+            ],
+            "text": "I'm sorry. Who's us?",
+            "start_time": "00:00:25.409",
+            "end_time": "00:00:26.860"
+        },
+        {
+            "start_frame": 718,
+            "end_frame": 760,
+            "pos": [
+                528.5,
+                655.0
+            ],
+            "text": "Last chance variant?",
+            "start_time": "00:00:28.739",
+            "end_time": "00:00:30.409"
+        },
+        {
+            "start_frame": 861,
+            "end_frame": 898,
+            "pos": [
+                511.44019775390626,
+                428.54534606933595
+            ],
+            "text": "It's been a very long day",
+            "start_time": "00:00:34.479",
+            "end_time": "00:00:35.950"
+        },
+        {
+            "start_frame": 909,
+            "end_frame": 989,
+            "pos": [
+                526.5278015136719,
+                409.4734741210938
+            ],
+            "text": "and I think I've had my fill\nof idiots in armored suits telling me what to do.",
+            "start_time": "00:00:36.369",
+            "end_time": "00:00:39.580"
+        },
+        {
+            "start_frame": 989,
+            "end_frame": 1050,
+            "pos": [
+                497.0,
+                627.0
+            ],
+            "text": "So if you don't mind, this is\nactually",
+            "start_time": "00:00:39.590",
+            "end_time": "00:00:42.020"
+        },
+        {
+            "start_frame": 1058,
+            "end_frame": 1095,
+            "pos": [
+                515.5501647949219,
+                418.83656311035156
+            ],
+            "text": "your last chance.",
+            "start_time": "00:00:42.349",
+            "end_time": "00:00:43.810"
+        },
+        {
+            "start_frame": 1134,
+            "end_frame": 1181,
+            "pos": [
+                510.4409240722656,
+                451.7842819213867
+            ],
+            "text": "Now, guess I was on my way.",
+            "start_time": "00:00:45.380",
+            "end_time": "00:00:47.270"
+        }
+    ]
+}
