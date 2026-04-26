@@ -52,6 +52,7 @@
 | 김건우 | 오지완 | 이소민 | 이현우 | 표성주 |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="./images/members/kunwoo.png" height="120" width="120" /> | <img src="./images/members/jiwan.png" height="120" width="120" /> | <img src="./images/members/somin.png" height="120" width="120" /> | <img src="./images/members/hyun2.png" height="120" width="120" /> | <img src="./images/members/pio.png" height="120" width="120" /> |
+| | | | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyunooss) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piosj) |
 </div>
 <br>
 
