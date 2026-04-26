@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "start_time": "00:00:04.300",
+            "end_time": "00:00:06.869",
+            "text": "Appears to be a standard\nsequence violation",
+            "pos": [
+                562.9706787109375,
+                325.69018096923827
+            ]
+        },
+        {
+            "start_time": "00:00:07.530",
+            "end_time": "00:00:12.500",
+            "text": "branch is growing at a stable\nrate and slope variant identified.",
+            "pos": [
+                469,
+                627
+            ]
+        },
+        {
+            "start_time": "00:00:13.630",
+            "end_time": "00:00:14.600",
+            "text": "I beg your pardon.",
+            "pos": [
+                540.9432983398438,
+                378.4233688354492
+            ]
+        },
+        {
+            "start_time": "00:00:14.689",
+            "end_time": "00:00:17.430",
+            "text": "On behalf of the time variance\nauthority,",
+            "pos": [
+                479,
+                627
+            ]
+        },
+        {
+            "start_time": "00:00:17.440",
+            "end_time": "00:00:20.620",
+            "text": "I hereby arrest you for crimes\nagainst the sacred timeline.",
+            "pos": [
+                483,
+                627
+            ]
+        },
+        {
+            "start_time": "00:00:21.170",
+            "end_time": "00:00:22.079",
+            "text": "Hands up.",
+            "pos": [
+                584.5,
+                655
+            ]
+        },
+        {
+            "start_time": "00:00:23.110",
+            "end_time": "00:00:24.540",
+            "text": "You're coming with us.",
+            "pos": [
+                460.83087158203125,
+                322.26036529541017
+            ]
+        },
+        {
+            "start_time": "00:00:25.409",
+            "end_time": "00:00:26.860",
+            "text": "I'm sorry. Who's us?",
+            "pos": [
+                525.412353515625,
+                456.81395111083987
+            ]
+        },
+        {
+            "start_time": "00:00:28.739",
+            "end_time": "00:00:30.409",
+            "text": "Last chance variant?",
+            "pos": [
+                528.5,
+                655
+            ]
+        },
+        {
+            "start_time": "00:00:34.479",
+            "end_time": "00:00:35.950",
+            "text": "It's been a very long day",
+            "pos": [
+                511.44019775390626,
+                428.54534606933595
+            ]
+        },
+        {
+            "start_time": "00:00:36.369",
+            "end_time": "00:00:39.580",
+            "text": "and I think I've had my fill\nof idiots in armored suits telling me what to do.",
+            "pos": [
+                526.5278015136719,
+                409.4734741210938
+            ]
+        },
+        {
+            "start_time": "00:00:39.590",
+            "end_time": "00:00:42.020",
+            "text": "So if you don't mind, this is\nactually",
+            "pos": [
+                497,
+                627
+            ]
+        },
+        {
+            "start_time": "00:00:42.349",
+            "end_time": "00:00:43.810",
+            "text": "your last chance.",
+            "pos": [
+                515.5501647949219,
+                418.83656311035156
+            ]
+        },
+        {
+            "start_time": "00:00:45.380",
+            "end_time": "00:00:47.270",
+            "text": "Now, guess I was on my way.",
+            "pos": [
+                510.4409240722656,
+                451.7842819213867
+            ]
+        }
+    ]
+}
